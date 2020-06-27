@@ -24,3 +24,8 @@ body {
 .img--phone {
     text-align: center;
 }
+.footer {
+    text-align: right;
+    color: gray;
+    font-size: 16px;
+}
